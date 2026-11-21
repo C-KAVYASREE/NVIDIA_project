@@ -1,0 +1,162 @@
+[
+  {
+    "id": "EG01",
+    "item": "Fruit and vegetable peels",
+    "category": "Wet / biodegradable waste",
+    "guidance": "Keep food scraps separate from dry recyclables. Use the local wet-waste collection or an approved home/community composting system. Avoid mixing plastic, glass or chemicals with compost feedstock.",
+    "keywords": "food scraps fruit peels vegetable peels compost wet waste",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "EG02",
+    "item": "Cooked food leftovers",
+    "category": "Wet / biodegradable waste",
+    "guidance": "Place unavoidable cooked-food leftovers in the wet-waste stream according to local collection rules. Keep packaging, foil, cutlery and plastic separate. Do not put hot oil or chemicals into compost.",
+    "keywords": "leftover food cooked rice curry wet waste",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "EG03",
+    "item": "Clean paper",
+    "category": "Dry recyclable waste",
+    "guidance": "Keep clean, dry paper separate from wet waste. Flatten or bundle it and send it through the local dry-waste collection or authorised recycler. Paper contaminated with food or oil may not be accepted for recycling.",
+    "keywords": "newspaper office paper clean paper recycle dry waste",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG04",
+    "item": "Cardboard box",
+    "category": "Dry recyclable waste",
+    "guidance": "Flatten clean and dry cardboard boxes. Remove excess tape or plastic where practical and keep them dry for the local dry-waste collector or authorised recycler.",
+    "keywords": "cardboard carton packaging box recycle",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG05",
+    "item": "Plastic water bottle",
+    "category": "Dry recyclable waste",
+    "guidance": "Empty the bottle, keep it reasonably clean and place it in the locally accepted dry-recyclable stream. Do not burn plastic. Follow local instructions for caps and labels.",
+    "keywords": "PET bottle plastic bottle recycle dry waste",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG06",
+    "item": "Plastic food wrapper",
+    "category": "Check local rules / low-value plastic",
+    "guidance": "Keep wrappers separate from wet waste. Multi-layered or soiled wrappers may not be accepted by ordinary recyclers. Follow local collection guidance and avoid littering or burning.",
+    "keywords": "chips packet snack wrapper multilayer plastic",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG07",
+    "item": "Glass bottle or jar",
+    "category": "Dry recyclable / handle carefully",
+    "guidance": "Empty the container and keep it separate from wet waste. Do not put broken glass loose into a bag; wrap it securely and label it so sanitation workers are protected. Check local collection rules.",
+    "keywords": "glass bottle jar broken glass recycle",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG08",
+    "item": "Metal can",
+    "category": "Dry recyclable waste",
+    "guidance": "Empty and, where safe, rinse the can. Keep it with dry recyclables for local collection. Handle sharp edges carefully and do not crush cans by hand.",
+    "keywords": "aluminium tin steel can metal recycling",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG09",
+    "item": "Used cooking oil",
+    "category": "Separate collection; do not pour into drains",
+    "guidance": "Never pour used cooking oil into a sink or storm drain. Let it cool, store it in a sealed container and check local municipal or authorised collection arrangements. Do not mix it with compost unless local guidance explicitly permits it.",
+    "keywords": "cooking oil grease drain used oil",
+    "source": "https://fssai.gov.in/"
+  },
+  {
+    "id": "EG10",
+    "item": "Household battery",
+    "category": "Domestic hazardous / special collection",
+    "guidance": "Keep batteries out of wet and ordinary dry waste. Store safely away from heat and children, avoid puncturing or crushing them, and use an authorised battery collection or take-back channel. Battery type matters.",
+    "keywords": "AA battery cell household battery hazardous waste",
+    "source": "https://moef.gov.in/"
+  },
+  {
+    "id": "EG11",
+    "item": "Mobile phone",
+    "category": "E-waste",
+    "guidance": "Do not place phones in household wet or dry waste. Delete personal data, remove accounts where possible, and hand the device to an authorised e-waste collection point, producer take-back channel or recycler.",
+    "keywords": "old phone smartphone electronics e waste",
+    "source": "https://cpcb.nic.in/e-waste/"
+  },
+  {
+    "id": "EG12",
+    "item": "Laptop or computer",
+    "category": "E-waste",
+    "guidance": "Keep electronic equipment separate from municipal household waste. Back up and erase personal data, remove accounts and use an authorised e-waste collection or producer take-back channel.",
+    "keywords": "laptop computer keyboard monitor e waste",
+    "source": "https://cpcb.nic.in/e-waste/"
+  },
+  {
+    "id": "EG13",
+    "item": "CFL or fluorescent tube light",
+    "category": "E-waste / special handling",
+    "guidance": "Do not break fluorescent lamps. Keep them protected from breakage and use an authorised collection channel for lamps or e-waste. If one breaks, keep people away and follow local public-health guidance for safe cleanup.",
+    "keywords": "CFL tube light fluorescent bulb mercury",
+    "source": "https://cpcb.nic.in/e-waste/"
+  },
+  {
+    "id": "EG14",
+    "item": "Expired medicine",
+    "category": "Special disposal; ask pharmacy/local authority",
+    "guidance": "Do not flush medicines or mix them with compost. Keep them in original packaging where practical and ask a pharmacy, healthcare provider or local authority about an approved take-back or disposal route.",
+    "keywords": "expired tablets medicine pharmaceutical waste",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG15",
+    "item": "Sanitary waste",
+    "category": "Separate sanitary waste",
+    "guidance": "Wrap sanitary waste securely and follow the municipal collection instructions. Do not mix it with loose recyclables or compost. Do not burn it in the open.",
+    "keywords": "sanitary napkin diaper hygiene waste",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "EG16",
+    "item": "Used cooking/food-stained tissue",
+    "category": "Wet or reject waste; local rules vary",
+    "guidance": "Food-soiled tissues are generally not suitable for paper recycling. Follow local wet-waste or reject-waste instructions; keep them out of clean-paper recyclables.",
+    "keywords": "dirty tissue paper towel food stained",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "EG17",
+    "item": "Garden leaves and small plant trimmings",
+    "category": "Wet / biodegradable waste",
+    "guidance": "Keep leaves and plant trimmings separate from plastic and other dry waste. Use municipal green-waste collection or composting where available. Large branches may need a separate collection service.",
+    "keywords": "leaves garden waste grass biodegradable compost",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "EG18",
+    "item": "Paint, thinner or pesticide container",
+    "category": "Household hazardous / special collection",
+    "guidance": "Do not pour leftover chemicals into drains, soil or regular compost. Keep the container closed and labelled, avoid mixing chemicals, and contact the local authority or authorised hazardous-waste handler for instructions.",
+    "keywords": "paint thinner pesticide chemical container hazardous",
+    "source": "https://cpcb.nic.in/"
+  },
+  {
+    "id": "EG19",
+    "item": "Clothes and textiles",
+    "category": "Reuse / textile collection",
+    "guidance": "If wearable, consider repair, donation or reuse. Clean, dry unusable textiles may be accepted by textile collection programmes. Do not assume every textile is recyclable through household dry-waste collection.",
+    "keywords": "old clothes fabric textile donation reuse",
+    "source": "https://moef.gov.in/"
+  },
+  {
+    "id": "EG20",
+    "item": "Ceramic mug or broken crockery",
+    "category": "Reject / special local handling",
+    "guidance": "Ceramics are not the same as recyclable glass bottles. Wrap broken pieces securely, label them to prevent injuries and follow local reject-waste instructions.",
+    "keywords": "ceramic cup mug plates crockery broken",
+    "source": "https://swachhbharatmission.gov.in/"
+  }
+]
